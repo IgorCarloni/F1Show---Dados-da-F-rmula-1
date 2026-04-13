@@ -3,6 +3,30 @@
 Aplicação web para acompanhar resultados, classificações e estatísticas da Fórmula 1, consumindo a [Ergast Mirror API](https://api.jolpi.ca/ergast/f1).
 
 Acesse pelo link https://f1-show-dados-da-formula-1.vercel.app
+
+---
+
+## 📸 Screenshots
+
+### Início
+![Início](Docs/Captura%20de%20tela%202026-04-13%20200602.png)
+
+### Resultados
+![Resultados](Docs/resultados.png)
+
+### Temporadas
+![Temporadas](Docs/temporada.png)
+![Temporadas - Corrida selecionada](Docs/temporada1.png)
+![Temporadas - Resultados](Docs/temporada2.png)
+
+### Classificação de Pilotos
+![Classificação](Docs/classificacao.png)
+![Classificação - Detalhes](Docs/classificacao1.png)
+
+### Classificação de Construtores
+![Construtores](Docs/classificacaoConstrutores.png)
+![Construtores - Detalhes](Docs/classificacaoConstrutores2.png)
+
 ---
 
 ## 📱 Telas
