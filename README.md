@@ -9,23 +9,23 @@ Acesse pelo link https://f1-show-dados-da-formula-1.vercel.app
 ## 📸 Screenshots
 
 ### Início
-![Início](Docs/Captura%20de%20tela%202026-04-13%20200602.png)
+![Início](docs/Captura%20de%20tela%202026-04-13%20200602.png)
 
 ### Resultados
-![Resultados](Docs/resultados.png)
+![Resultados](docs/resultados.png)
 
 ### Temporadas
-![Temporadas](Docs/temporada.png)
-![Temporadas - Corrida selecionada](Docs/temporada1.png)
-![Temporadas - Resultados](Docs/temporada2.png)
+![Temporadas](docs/temporada.png)
+![Temporadas - Corrida selecionada](docs/temporada1.png)
+![Temporadas - Resultados](docs/temporada2.png)
 
 ### Classificação de Pilotos
-![Classificação](Docs/classificacao.png)
-![Classificação - Detalhes](Docs/classificacao1.png)
+![Classificação](docs/classificacao.png)
+![Classificação - Detalhes](docs/classificacao1.png)
 
 ### Classificação de Construtores
-![Construtores](Docs/classificacaoConstrutores.png)
-![Construtores - Detalhes](Docs/classificacaoConstrutores2.png)
+![Construtores](docs/classificacaoConstrutores.png)
+![Construtores - Detalhes](docs/classificacaoConstrutores2.png)
 
 ---
 
