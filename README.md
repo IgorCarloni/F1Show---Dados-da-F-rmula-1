@@ -54,6 +54,8 @@ Acesse pelo link https://f1-show-dados-da-formula-1.vercel.app
 
 ## 🏗️ Arquitetura
 
+ ![WhatsApp Image 2026-04-13 at 20 30 43](https://github.com/user-attachments/assets/09c060e0-f565-41d3-98d6-1a4bed15e355)
+
 ```
 f1show/
 ├── public/
